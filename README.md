@@ -5,9 +5,8 @@ O Food Explorer é o projeto final do curso de desenvolvimento Full Stack da Roc
 Trata-se de uma aplicação web que simula um aplicativo de delivery e cardápio digital para uma empresa ficticia. <br />
 Neste repositório você encontrará o back-end do projeto, com o banco de dados e toda a lógica aplicada para o funcionamento da aplicação.
 
-<a href="https://github.com/milenarendt" target="_blank">Link da aplicação frontend. </a>
+<a href="[https://github.com/milenarendt](https://github.com/arendttt/web_foodExplorer)" target="_blank">Link da aplicação frontend. </a>
 
- <br />
  <br />
   
 ## Principais Tecnologias 🔧
@@ -28,7 +27,7 @@ Neste repositório você encontrará o back-end do projeto, com o banco de dados
   
 <br />
 
-## Tabelas
+## Tabelas 📝
 - Usuários
 - Pratos
 - Ingredientes
@@ -80,7 +79,6 @@ Senha: 123456
 - Clone este projeto
 - Rode as migrations do banco de dados utilizando o comando: npm run migrate
 - Para rodar a aplicação: npm run dev
-- 
 <br />
 
 <b> Importante: </b> <br />
