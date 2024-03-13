@@ -77,8 +77,8 @@ Senha: 123456
 
 ## Instalação 🔨
 - Clone este projeto
-- Rode as migrations do banco de dados utilizando o comando: npm run migrate
-- Para rodar a aplicação: npm run dev
+- Rode as migrations do banco de dados utilizando o comando: <i>npm run migrate</i>
+- Para rodar a aplicação: <i>npm run dev</i> ou <i>npm start</i> (para rodar utilizando o pm2)
 <br />
 
 <b> Importante: </b> <br />
