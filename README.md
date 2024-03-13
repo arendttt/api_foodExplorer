@@ -49,7 +49,7 @@ Neste repositório você encontrará o back-end do projeto, com o banco de dados
 <br />
 
 ## Deploy 🌐
-Você pode acessar o projeto clicando aqui.
+Você pode acessar o projeto clicando <a href="https://arendt-foodexplorer.netlify.app" target="_blank">aqui</a>..
 
 <br />
 
